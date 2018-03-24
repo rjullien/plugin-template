@@ -18,7 +18,7 @@ Template de permettant de céér des plugins pour Jeedom
 
 # Documentation complète:
 
-[![Read the Docs](plugin_info/screenshot1.png)](https://jeedom-plugins-extra.github.io/plugin-template)
+[![Read the Docs](plugin_info/template_icon.png)](https://jeedom-plugins-extra.github.io/plugin-template)
 
 
 
