@@ -9,15 +9,19 @@
 Template de permettant de céér des plugins pour Jeedom
 
 
+[![Read the Docs](docs/images/screenshot1.png)](docs/images/template-screenshot1.png)
+
 # Documentation du plugin, comment créér un plugin:
 
 *Effacer cette section dans votre plugin*
+
 
 [Documentation principale](https://github.com/rjullien/plugin-template/blob/develop/docs/fr_FR/index-template.md)
 
 [Comment documenter un plug-in](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Documentation-d'un-Plugin)
 
 [Comment tester un plugin](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Tester-un-plugin-avec-travis-ci)
+
 
 [Comment creer l'icône](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/07-Cr%C3%A9ation-d'une-icone-plugin)
 
@@ -32,6 +36,7 @@ Template de permettant de céér des plugins pour Jeedom
 # Documentation complète:
 
 [![Read the Docs](plugin_info/template_icon.png)](https://jeedom-plugins-extra.github.io/plugin-template)
+
 
 
 
