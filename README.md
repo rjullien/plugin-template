@@ -8,7 +8,7 @@
 
 Template de permettant de céér des plugins pour Jeedom 
 
-[![Read the Docs](docs/images/template-Screenshot1.png)](docs/images/template-screenshot1.png)
+[![Read the Docs](docs/images/screenshot1.png)](docs/images/template-screenshot1.png)
 
 # Documentation du plugin:
 [![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](docs/fr_FR/presentation.md) 
